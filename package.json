@@ -221,7 +221,7 @@
     "rollup": "1.29.0",
     "rollup-plugin-commonjs": "10.1.0",
     "rollup-plugin-node-resolve": "5.2.0",
-    "rollup-plugin-typescript2": "0.24.3",
+    "rollup-plugin-typescript2": "0.25.3",
     "tslint": "5.20.1",
     "typescript": "3.7.4",
     "vscode": "1.1.36"
